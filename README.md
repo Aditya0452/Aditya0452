@@ -3,8 +3,8 @@
 ## About me
 <img src="https://img.freepik.com/free-photo/3d-rendering-cartoon-boy_23-2150797600.jpg?t=st=1700428695~exp=1700432295~hmac=c3fff2f1395ee6ffb6e8ba71bbabae79db4864e13181a27783ad8734dfc458ec&w=740" align="right"  
  z-index="1" width="300px"> 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0452&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0452" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0452&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0452" /> </p><br>
 <h1 align="left" style="font:bold">Hi 👋 This is Aditya!! </h1><br>
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
