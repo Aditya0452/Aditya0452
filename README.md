@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0452&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0452" /> </p><br>
 <h1 align="left" style="font:bold">Hi 👋 This is Aditya!! </h1><br>
-<h3 align="center">A passionate frontend developer from India</h3><br>
-
+<h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center"> I'm a <b>Robotics aspirant</b> </h3><br>
 
 <p align="right"><b>Aditya K</b> @ECE </p>
