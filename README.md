@@ -6,18 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0452&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0452" /> </p><br>
 <h1 align="left" style="font:bold">Hi 👋 This is Aditya!! </h1><br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Application Developer from India</h3>
 <h3 align="center"> I'm a <b>Robotics aspirant</b> </h3><br><br>
 
 <p align="right"><b>Aditya K</b> @ECE </p>
 <h4 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h4>
 <br>
 
-- 🔭 I’m currently working on   **Front - end**  **Android Development**
+- 🔭 I’m currently working on  **Android Development**
 
-- 🌱 I’m currently learning **web development** || **Machine Learning**
+- 🌱 I’m currently learning **Linux development** || **Machine Learning**
 
-- 💬 Ask me about **Javascript CSS3 HTML5** || **Python**
+- 💬 Ask me about **Java** || **Python**
 
 - 📫 How to reach me  **kudipudiaditya2002@gmail.com**
 
